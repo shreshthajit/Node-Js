@@ -1,0 +1,10 @@
+*Start the API Server
+*Create,Edit,Delete User
+*Token based authentication
+*Logout MEchanism
+*Set links and Up/Down
+Edit/Delete liks and rate limit
+*Check up/down time
+
+command: npx nodemon index
+will have to search about regular expression
